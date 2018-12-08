@@ -6,5 +6,5 @@ Provide a complete top down design with testing design and results as we have di
  <p>
    My most important file is array.s where it has been updated from the previous one in project 1. I go through parts of the code and explain what happens when removed. This was the best method I used to really see how the project works and not just read about it. I work best through seeing how to make or break the code.
    
-  #Youtube
+  # Youtube
   Video about the process: processing. long buffer stage.
